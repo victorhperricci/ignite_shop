@@ -8,3 +8,10 @@ export const Container = styled('div', {
   width: '100%',
   minHeight: '100vh',
 })
+
+export const HeaderContainer = styled('header', {
+  padding: '2rem 0',
+  width: '100%',
+  maxWidth: 1100,
+  margin: '0 auto',
+})
